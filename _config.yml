@@ -2,6 +2,9 @@
 # This file contains configuration flags to customize your site
 #
 
+#theme
+remote_theme: yunxinp/kasper
+
 # Name of your site (displayed in the header)
 name: yunxinp
 
