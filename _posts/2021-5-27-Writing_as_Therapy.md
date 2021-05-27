@@ -11,4 +11,4 @@ Writing also keeps things frozen in time; keeping a "physical" (albeit virtual) 
 
 Either way, I believe it'll be an enjoyable passion project, especially if it's kept sustained. Which is, unfortunately, the most difficult part. Amidst my growing commitments and ever-growing pile of to-dos, simply posting an update doesn't always seem very feasible. But perhaps it is precisely this that I need: a cathartic release, to reconcile my worries and reinspire me when times get dull. 
 
-And to whoever's reading this: hope you'll have a good day ahead :) Thank you for getting to this point!
+That's it. Hope you'll have a good day ahead :") 
