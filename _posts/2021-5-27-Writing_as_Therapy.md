@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Writing as Therapy
+title: Writing as therapy
 ---
 
 I've always had the yen to start a personal blog of some sorts -- a means of documenting the tidbits of thought that spontaneously come to life throughout my day, a means of archiving the meaningful material I chance upon, a means of logging the evolution of my thinking process.
