@@ -87,3 +87,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+exclude: [node_modules]
