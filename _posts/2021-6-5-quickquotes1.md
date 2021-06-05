@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quick quotes 1 - on serendipity and luck
+title: Quick Quotes 1 - on serendipity and luck
 ---
 _Tying in with the idea of curating a collection of useful material, I've decided to kickstart Quick Quotes, which is essentially a compilation of meaningful quotes I've chanced upon, along with the insights I've gathered from it. Hopefully my future self will find this somewhat useful when looking back!_
 
