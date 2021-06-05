@@ -18,4 +18,6 @@ And a screenshot from Reddit:
 ![screenshot on luck](yunxinp.github.io/images/luck_screenshot.jpeg)
 
 
-Luck is almost an essential factor to success. While we can't control when we'll get lucky, taking action enables serendipity. Rather than simply waiting around for an opportunity to strike, we should focus on what's in our control (i.e. our actions) and give everything we do a worthy effort; after all, we miss all the shots we don't take. Doing something at least guarantees that we'll have no regrets in the future (e.g. about being lazy and not maximizing an opportunity), regardless of success or failure.
+Luck is almost an essential factor to success. While we can't control when we'll get lucky, taking action enables **serendipity**. 
+
+Rather than simply waiting around for an opportunity to strike, we should focus on what's in our control (i.e. our actions) and give everything we do a worthy effort; after all, we miss all the shots we don't take. Doing something at least guarantees that we'll have no regrets in the future (e.g. about being lazy and not maximizing an opportunity), regardless of success or failure.
