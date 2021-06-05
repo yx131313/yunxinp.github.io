@@ -15,7 +15,7 @@ From [James Clear's 6/5/21 newsletter](https://jamesclear.com/3-2-1/may-6-2021)
 
 
 And a screenshot from Reddit:
-![screenshot on luck](yunxinp.github.io/images/luck_screenshot.jpeg)
+![screenshot on luck]({{yunxinp.github.io}}/images/luck_screenshot.jpeg)
 
 
 Luck is almost an essential factor to success. While we can't control when we'll get lucky, taking action enables **serendipity**. 
