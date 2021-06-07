@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflections on RSI science bowl
+title: Reflections on RSI Science Bowl
 ---
 
 A few weeks back, one of the other RSI scholars proposed hosting an RSI Science Bowl for fun. I had initially been on the fence about joining, as I didn't have any previous experience with buzzer-based competitions. But out of the blue, another Singaporean RSI scholar (who's now one of my friends!) invited me to form a team with him; I eventually conceded after his attempts at persuading me to join. 
