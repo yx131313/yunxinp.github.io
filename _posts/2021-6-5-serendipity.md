@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Quick Quotes 1 - on serendipity and luck
+title: On serendipity and luck
 ---
-_Tying in with the idea of curating a collection of useful material, I've decided to kickstart Quick Quotes, which is essentially a compilation of meaningful quotes I've chanced upon, along with the insights I've gathered from it. Hopefully my future self will find this somewhat useful when looking back!_
-
 
 From [James Clear's 6/5/21 newsletter](https://jamesclear.com/3-2-1/may-6-2021):
 
@@ -15,7 +13,7 @@ From [James Clear's 6/5/21 newsletter](https://jamesclear.com/3-2-1/may-6-2021):
 
 
 And a screenshot from Reddit:
-![screenshot on luck]({{ site.baseurl }}/images/luck_screenshot.jpeg)
+![screenshot on luck](https://yunxinp.github.io/images/luck screenshot.jpeg)
 
 
 Luck is almost an essential factor to success. While we can't control when we'll get lucky, taking action enables **serendipity**. 
