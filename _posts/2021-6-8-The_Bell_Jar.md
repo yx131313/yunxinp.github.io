@@ -3,7 +3,7 @@ layout: post
 title: Reading Journal 1 - The Bell Jar by Sylvia Plath
 ---
 
-_On a side note, my reading journals often contain spoilers so do keep that in mind!_
+_Side note: contains spoilers!_
 
 ## Summary (in 3 sentences)
 Esther Greenwood works as a guest editor at a fashion in New York
